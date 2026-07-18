@@ -53,11 +53,7 @@ IF(
     ISBLANK(Previous_Week_Revenue), 
     BLANK(), 
     DIVIDE(Current_Week_Revenue - Previous_Week_Revenue, Previous_Week_Revenue)
-)
-🖼️ Dashboard Visualizations
-(Replace the placeholder paths below with your actual screenshot images once uploaded to your repository)
 
-1. Transaction & Revenue Overview
-2. Customer Demographics & Risk Analysis
+
 🔒 Data Privacy & Compliance Notice
 Anonymization Statement: All transaction records, customer details, and financial parameters utilized across these dataset files are completely synthetic or thoroughly anonymized. No real Personally Identifiable Information (PII) or proprietary financial data is hosted within this repository.
